@@ -11,4 +11,3 @@
     README.md        | 3 ++-
     first-answers.md | 2 ++
     2 files changed, 4 insertions(+), 1 deletion(-)
-3.)
