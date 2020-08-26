@@ -1,2 +1,2 @@
-# Git Lab #2
-## First team member: 
+# The second Git Lab
+## First team member: Grant Davis
