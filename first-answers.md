@@ -13,3 +13,11 @@
 3.) * master
 4.) * header
       master
+5.) Mode                LastWriteTime         Length Name
+    ----                -------------         ------ ----
+    -a----        8/26/2020  12:21 PM            302 .gitignore
+    -a----        8/26/2020   2:11 PM           1170 die.h
+    -a----        8/26/2020   2:11 PM            618 first-answers.md
+    -a----        8/26/2020   2:07 PM            170 README.md
+    -a----        8/26/2020   1:43 PM            628 second-answers.md
+    
